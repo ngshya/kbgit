@@ -1,4 +1,4 @@
-# KBGit
+# Knowledge Base Git (KBGit)
 
 KBGit ~~is~~ will be a powerful versioning tool designed specifically for 
 managing knowledge bases used by LLM (Large Language Model) based applications. 
